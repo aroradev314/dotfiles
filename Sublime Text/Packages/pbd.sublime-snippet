@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace __gnu_pbds;
+template <class T>
+using Tree =
+    tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+$0
+    ]]></content>
+    <tabTrigger>pbd</tabTrigger>
+    <description>"policy based data structure (indexed set)"</description>
+</snippet>

@@ -1,0 +1,575 @@
+{
+	"file_history":
+	[
+		"/Users/devarora/cp/test.cpp",
+		"/Users/devarora/.config/nvim/snips/cpp.snippets",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/list.sublime-snippet",
+		"/Users/devarora/scripts/copy_snippets.py",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+		"/Users/devarora/cp/ballsorting.cpp",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/devarora/cp/robinhoodarchery.cpp",
+		"/Users/devarora/cp/rendezvousmarian.cpp",
+		"/Users/devarora/cp/gameontree.cpp",
+		"/Users/devarora/ml/OpenFace/lib/3rdParty/OpenCV/include/opencv2/stitching/detail/camera.hpp",
+		"/Users/devarora/cp/adventofcode/one.py",
+		"/Users/devarora/cp/adventofcode/untitled",
+		"/Users/devarora/apes_project/main.py",
+		"/Users/devarora/apes_project/game.py",
+		"/Users/devarora/apes_project/text.py",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/Conda (OSX).sublime-settings",
+		"/Users/devarora/ml/RL/main.py",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/Conda/Conda (OSX).sublime-settings"
+	],
+	"folder_history":
+	[
+		"/Users/devarora/.config/nvim/snips"
+	],
+	"last_version": 4143,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"next_update_check": 1729277121,
+	"settings":
+	{
+		"new_window_full_screen": true,
+		"new_window_height": 1527.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			-1440.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"scree",
+						"screen_width"
+					],
+					[
+						"get",
+						"get_size"
+					],
+					[
+						"s",
+						"screen_height"
+					],
+					[
+						"scal",
+						"scaling_factor"
+					],
+					[
+						"sca",
+						"scale_by"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"onda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devarora/cp/test.cpp",
+				"/Users/devarora/.config/nvim/snips/cpp.snippets",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/list.sublime-snippet",
+				"/Users/devarora/scripts/copy_snippets.py",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+				"/Users/devarora/cp/ballsorting.cpp",
+				"/Users/devarora/cp/robinhoodarchery.cpp",
+				"/Users/devarora/ml/RL/main.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"main"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Conda/Conda.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"scree",
+						"screen_width"
+					],
+					[
+						"get",
+						"get_size"
+					],
+					[
+						"s",
+						"screen_height"
+					],
+					[
+						"scal",
+						"scaling_factor"
+					],
+					[
+						"sca",
+						"scale_by"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "fdsa"
+							},
+							"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAZmRzYQ",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "b"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAYg",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "start"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert_completion",
+							{
+								"completion": "#include <bits/stdc++.h>\n#define sz(a) ((int)((a).size()))\ntypedef long long ll;\ntypedef long double ld;\nusing namespace std;\n\nvoid solve() {\n    $0 \n}\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n    int t;\n    cin >> t;\n    while (t--) solve();\n}\n    ",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "start"
+							},
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAc3RhcnQAAAAAAAAAABMBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAATAQAAI2luY2x1ZGUgPGJpdHMvc3RkYysrLmg+CiNkZWZpbmUgc3ooYSkgKChpbnQpKChhKS5zaXplKCkpKQp0eXBlZGVmIGxvbmcgbG9uZyBsbDsKdHlwZWRlZiBsb25nIGRvdWJsZSBsZDsKdXNpbmcgbmFtZXNwYWNlIHN0ZDsKCnZvaWQgc29sdmUoKSB7CiAgICAgCn0KCmludCBtYWluKCkgewogICAgaW9zOjpzeW5jX3dpdGhfc3RkaW8oZmFsc2UpOwogICAgY2luLnRpZShudWxscHRyKTsKICAgIGludCB0OwogICAgY2luID4+IHQ7CiAgICB3aGlsZSAodC0tKSBzb2x2ZSgpOwp9CiAgICA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAATAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"onda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devarora/cp/test.cpp",
+				"/Users/devarora/.config/nvim/snips/cpp.snippets",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/list.sublime-snippet",
+				"/Users/devarora/scripts/copy_snippets.py",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+				"/Users/devarora/cp/ballsorting.cpp",
+				"/Users/devarora/cp/robinhoodarchery.cpp",
+				"/Users/devarora/ml/RL/main.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Conda/Conda.sublime-build",
+			"position": "YnBsaXN0MDDUAQIDBAUGByVYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlct8QDwgJCgsMDQ4PEBESExQVFhcYGRoaHBweHyAhIiIjJF1OU1dpbmRvd0ZyYW1lV05TVGl0bGVfEB5fTlNXaW5kb3dMYXN0VXNlcldpbmRvd0xheW91dHNXTlNJc0tleVhOU0lzTWFpbl8QEE5TRmlyc3RSZXNwb25kZXJfEBdOU1VubWFuYWdlZFdpbmRvd0ZyYW1lMltOU0NsYXNzTmFtZV8QEF9OU1dpbmRvd0xheW91dHNbTlNTdHlsZU1hc2tfECZOU1dpbmRvd01hbmFnZW1lbnRQZXJzaXN0ZW50SWRlbnRpZmllcl8QF19OU1dpbmRvd01vdmVHZW5lcmF0aW9uXxAZX05TV2luZG93UmVzaXplR2VuZXJhdGlvbl8QE05TV2luZG93V29ya3NwYWNlSUReTlNXaW5kb3dOdW1iZXKAAoADgBAJCYAAgACABIAGEYAPgAEQAIAFERAcrxAUJicoKSorLDU7PD1DS0xNUFNZXV5VJG51bGxfECRENTNFN0UwMi05MkFDLTQ4Q0ItODhDOC0yRkVENzNEQjVGMkVfEBwwIDAgMjU2MCAxNDE1IDAgMCAyNTYwIDE0MTUgWHVudGl0bGVkWFBYV2luZG93UNMtLi8wMjRXTlMua2V5c1pOUy5vYmplY3RzViRjbGFzc6ExgAehM4ALgA/TNjcvODk6XxAYTlNTY3JlZW5MYXlvdXRVVUlEU3RyaW5nXxASTlNTY3JlZW5MYXlvdXRTaXplgAiACYAKXxAkNUYyN0QzQjctMTJBNi00MDc4LTg3RTktMDc0MEVBMUY3QjlEXHsyNTYwLCAxNDQwfdI+P0BBWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiQEJYTlNPYmplY3TVREVGL0dIIiJJSl8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWVfEB5OU1dpbmRvd0xheW91dFJlc2l6ZUdlbmVyYXRpb25fEBxOU1dpbmRvd0xheW91dE1vdmVHZW5lcmF0aW9uXxAZTlNXaW5kb3dMYXlvdXRXaW5kb3dGcmFtZYANgA6ADF8QFnt7MCwgMH0sIHsyNTYwLCAxNDE1fX1fEBZ7ezAsIDB9LCB7MjU2MCwgMTQxNX190j4/Tk9eTlNXaW5kb3dMYXlvdXSiTkLSPj9RUlxOU0RpY3Rpb25hcnmiUULTLS4vVFY0oTiACKFXgBGAD9VERUYvR1oiIklcgBOADoASXxAZe3swLCAtMTE1fSwgezI1NjAsIDE1NTV9fV8QFnt7MCwgMH0sIHsyNTYwLCAxNDE1fX0ACAARABoAJAApADIANwBJAGoAeACAAKEAqQCyAMUA3wDrAP4BCgEzAU0BaQF/AY4BkAGSAZQBlQGWAZgBmgGcAZ4BoQGjAaUBpwGqAcEBxwHuAg0CFgIfAiACJwIvAjoCQQJDAkUCRwJJAksCUgJtAoIChAKGAogCrwK8AsECzALVAuQC5wLwAvsDHQM+A10DeQN7A30DfwOYA7EDtgPFA8gDzQPaA90D5APmA+gD6gPsA+4D+QP7A/0D/wQbAAAAAAAAAgEAAAAAAAAAXwAAAAAAAAAAAAAAAAAABDQ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 33,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/devarora/ml/RL/rl_practice.sublime-workspace",
+			"/Users/devarora/ml/RL/main.sublime-workspace"
+		]
+	}
+}

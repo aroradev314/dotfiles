@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+struct Rand {
+    mt19937_64 rng;
+    uniform_int_distribution<ll> dist;
+
+    Rand() : dist(0, LONG_LONG_MAX) {
+        // Use high-resolution clock to seed the RNG
+        auto seed = chrono::high_resolution_clock::now().time_since_epoch().count();
+        rng.seed(seed);
+    }
+
+    ll next() {
+        return dist(rng);
+    }
+};
+    ]]></content>
+    <tabTrigger>rand</tabTrigger>
+    <description>"random 64-bit integer"</description>
+</snippet>

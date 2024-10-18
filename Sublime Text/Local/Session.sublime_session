@@ -1,0 +1,3062 @@
+{
+	"file_history":
+	[
+		"/Users/devarora/cp/ballsorting.cpp",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/devarora/cp/test.cpp",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+		"/Users/devarora/cp/robinhoodarchery.cpp",
+		"/Users/devarora/cp/rendezvousmarian.cpp",
+		"/Users/devarora/cp/gameontree.cpp",
+		"/Users/devarora/ml/OpenFace/lib/3rdParty/OpenCV/include/opencv2/stitching/detail/camera.hpp",
+		"/Users/devarora/cp/adventofcode/one.py",
+		"/Users/devarora/cp/adventofcode/untitled",
+		"/Users/devarora/apes_project/main.py",
+		"/Users/devarora/apes_project/game.py",
+		"/Users/devarora/apes_project/text.py",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/Conda (OSX).sublime-settings",
+		"/Users/devarora/ml/RL/main.py",
+		"/Users/devarora/Library/Application Support/Sublime Text/Packages/Conda/Conda (OSX).sublime-settings"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4143,
+	"last_window_id": 31,
+	"log_indexing": false,
+	"next_update_check": 1729190721,
+	"settings":
+	{
+		"new_window_full_screen": true,
+		"new_window_height": 1499.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			-1440.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"scree",
+						"screen_width"
+					],
+					[
+						"get",
+						"get_size"
+					],
+					[
+						"s",
+						"screen_height"
+					],
+					[
+						"scal",
+						"scaling_factor"
+					],
+					[
+						"sca",
+						"scale_by"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"onda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devarora/cp/ballsorting.cpp",
+				"/Users/devarora/cp/test.cpp",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+				"/Users/devarora/cp/robinhoodarchery.cpp",
+				"/Users/devarora/ml/RL/main.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"main"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 66.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Conda/Conda.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"scree",
+						"screen_width"
+					],
+					[
+						"get",
+						"get_size"
+					],
+					[
+						"s",
+						"screen_height"
+					],
+					[
+						"scal",
+						"scaling_factor"
+					],
+					[
+						"sca",
+						"scale_by"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\n\ngruvbox\n-------\n\n  gruvbox for Sublime Text 3\n  \n           More Information:  https://github.com/Briles/gruvbox\n  Feature Requests & Issues:  https://github.com/Briles/gruvbox/issues\n           gruvbox for Atom:  https://atom.io/themes/gruvbox-plus-syntax\n  \n  ----------------------------------------------------------------------------------------------\n  \n  Thank you for downloading gruvbox! Let's get started...\n  \n  ----------------------------------------------------------------------------------------------\n  \n  Add the following to your Settings - User file and then restart Sublime Text:\n  \n  gruvbox Dark - Hard Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Dark - Medium Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Dark - Soft Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Hard Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Hard).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Medium Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Medium).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Soft Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Soft).sublime-color-scheme\",\n    }\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Color Scheme Variations\n  \n          gruvbox comes with color scheme variations which have different\n          brightness, saturation, or colors than their parent color schemes.\n  \n  \n    No Dimmed Colors\n  \n          A variant without out any neutral / dimmed colors\n  \n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Soft) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Hard) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Medium) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Soft) NDC.sublime-color-scheme\",\n  \n  \n  --------------------------------------------------------------------------------\n    ┌───────────────────────────┐\n    │  Theme options:       │\n    └───────────────────────────┘\n  --------------------------------------------------------------------------------\n  \n    Accent Colors\n  \n          Accent colors affect icons and certain text.\n  \n      \"gruvbox_accent_aqua\": true,    // uses the cyanish color from the color scheme\n      \"gruvbox_accent_blue\": true,    // uses the bluish color from the color scheme\n      \"gruvbox_accent_green\": true,   // uses the greenish color from the color scheme\n      \"gruvbox_accent_orange\": true,  // uses the orangish color from the color scheme\n      \"gruvbox_accent_purple\": true,  // uses the purplish color from the color scheme\n      \"gruvbox_accent_red\": true,     // uses the redish color from the color scheme\n      \"gruvbox_accent_yellow\": true,  // uses the yellowish color from the color scheme\n  \n  --------------------------------------------------------------------------------\n  \n  \n    AutoComplete Spacing\n  \n          Change the space between autocomplete rows\n  \n      \"gruvbox_autocomplete_cramped\": true,      //  v  2\n      \"gruvbox_autocomplete_compact\": true,      //  |  4\n                                                 //  |  6 (Default)\n      \"gruvbox_autocomplete_comfortable\": true,  //  |  8\n      \"gruvbox_autocomplete_cozy\": true,         //  v  10\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    AutoComplete Border\n  \n          Add a border around the autocomplete pop-up\n  \n      \"gruvbox_autocomplete_border\": true,        //  v 1\n      \"gruvbox_autocomplete_border_thick\": true,  //  v 2\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sideline Selected AutoComplete Row\n  \n          Add a border to the left of the selected autocomplete row\n          All thicknesses require `gruvbox_sideline_autocomplete_row` to be `true`.\n  \n      \"gruvbox_sideline_autocomplete_row\": true,           //  v  1 (Default)\n      \"gruvbox_sideline_autocomplete_row_thick\": true,     //  |  2\n      \"gruvbox_sideline_autocomplete_row_thickest\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable Selected AutoComplete Row Highlight\n  \n          Remove the highlight from the selected autocomplete row.\n  \n      \"gruvbox_disable_autocomplete_row_highlight\": true,\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Spacing\n  \n          Change the space between sidebar tree rows\n  \n      \"gruvbox_sidebar_cozy\": true,         //  v  1\n      \"gruvbox_sidebar_comfortable\": true,  //  |  3\n                                            //  |  5 (Default)\n      \"gruvbox_sidebar_compact\": true,      //  |  7\n      \"gruvbox_sidebar_cramped\": true,      //  v  9\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Indent\n  \n          Change the indent of sidebar tree rows\n  \n      \"gruvbox_sidebar_indent_xxs\": true,  //  v  4\n      \"gruvbox_sidebar_indent_xs\": true,   //  |  8\n      \"gruvbox_sidebar_indent_s\": true,    //  |  12\n                                           //  |  16 (Default)\n      \"gruvbox_sidebar_indent_l\": true,    //  |  20\n      \"gruvbox_sidebar_indent_xl\": true,   //  |  24\n      \"gruvbox_sidebar_indent_xxl\": true,  //  v  28\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Font Sizes\n  \n          Change the font size of the sidebar labels\n          ! Increasing the font size will distort the icons in the sidebar.\n  \n      \"gruvbox_sidebar_font_size_10\": true,  //  v  10\n                                             //  |  11 (Default)\n      \"gruvbox_sidebar_font_size_12\": true,  //  |  12\n      \"gruvbox_sidebar_font_size_13\": true,  //  |  13\n      \"gruvbox_sidebar_font_size_14\": true,  //  |  14\n      \"gruvbox_sidebar_font_size_15\": true,  //  |  15\n      \"gruvbox_sidebar_font_size_16\": true,  //  v  16\n  \n  --------------------------------------------------------------------------------\n  \n  \n    Bold Sidebar Labels\n  \n          Toggle bold fonts for sidebar labels\n  \n      \"gruvbox_sidebar_heading_bold\": true,\n      \"gruvbox_sidebar_label_bold\": true,\n  \n  --------------------------------------------------------------------------------\n  \n  \n    Command Palette Spacing\n  \n          Change the space between command palette rows\n  \n      \"gruvbox_command_palette_comfortable\": true,  //  v  4\n      \"gruvbox_command_palette_compact\": true,      //  |  8\n                                                    //  |  12 (Default)\n      \"gruvbox_command_palette_cozy\": true,         //  |  14\n      \"gruvbox_command_palette_cramped\": true,      //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sideline Selected Command Palette Row\n  \n          Add a border to the left of the selected Command Palette row\n          All thicknesses require `gruvbox_sideline_command_palette_row` to be `true`.\n  \n      \"gruvbox_sideline_command_palette_row\": true,           //  v  1 (Default)\n      \"gruvbox_sideline_command_palette_row_thick\": true,     //  |  2\n      \"gruvbox_sideline_command_palette_row_thickest\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable Selected Command Palette Row Highlight\n  \n          Remove the highlight from the selected Command Palette row.\n  \n      \"gruvbox_disable_command_palette_row_highlight\": true,\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Sizes\n  \n          Change the height of the status bar\n  \n      \"gruvbox_statusbar_xxs\": true,  //  v  20\n      \"gruvbox_statusbar_xs\": true,   //  |  25\n      \"gruvbox_statusbar_s\": true,    //  |  30\n                                      //  |  35 (Default)\n      \"gruvbox_statusbar_l\": true,    //  |  40\n      \"gruvbox_statusbar_xl\": true,   //  |  45\n      \"gruvbox_statusbar_xxl\": true,  //  v  50\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Button Widths\n  \n          Change the minimum width of the buttons in the status bar\n  \n      \"gruvbox_statusbar_button_xxs\": true,  //  v  44\n      \"gruvbox_statusbar_button_xs\": true,   //  |  55\n      \"gruvbox_statusbar_button_s\": true,    //  |  65\n                                             //  |  75 (Default)\n      \"gruvbox_statusbar_button_l\": true,    //  |  85\n      \"gruvbox_statusbar_button_xl\": true,   //  |  95\n      \"gruvbox_statusbar_button_xxl\": true,  //  v  105\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Font Sizes\n  \n          Change the font size of the status bar labels\n  \n      \"gruvbox_statusbar_font_size_10\": true,  //  v  10\n                                               //  |  11 (Default)\n      \"gruvbox_statusbar_font_size_12\": true,  //  |  12\n      \"gruvbox_statusbar_font_size_13\": true,  //  |  13\n      \"gruvbox_statusbar_font_size_14\": true,  //  |  14\n      \"gruvbox_statusbar_font_size_15\": true,  //  |  15\n      \"gruvbox_statusbar_font_size_16\": true,  //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Tab Sizes\n  \n          Change the height of the tabs\n  \n      \"gruvbox_tabs_xxs\": true,  //  v  33\n      \"gruvbox_tabs_xs\": true,   //  |  39\n      \"gruvbox_tabs_s\": true,    //  |  45\n                                 //  |  51 (Default)\n      \"gruvbox_tabs_l\": true,    //  |  57\n      \"gruvbox_tabs_xl\": true,   //  |  63\n      \"gruvbox_tabs_xxl\": true,  //  v  69\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Tab Font Sizes\n  \n          Change the font size of the tabs\n          ! Font sizes above 11 may get cut off. This is a known issue with Sublime Text.\n  \n      \"gruvbox_tabs_font_size_7\": true,   //  v  7\n      \"gruvbox_tabs_font_size_8\": true,   //  |  8\n      \"gruvbox_tabs_font_size_9\": true,   //  |  9\n      \"gruvbox_tabs_font_size_10\": true,  //  |  10\n                                          //  |  11 (Default)\n      \"gruvbox_tabs_font_size_12\": true,  //  |  12\n      \"gruvbox_tabs_font_size_13\": true,  //  |  13\n      \"gruvbox_tabs_font_size_14\": true,  //  |  14\n      \"gruvbox_tabs_font_size_15\": true,  //  v  15\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Autocollapsing Tab Bar\n  \n          Autocollapse the tabs when not in use\n  \n    \"gruvbox_autocollapse_tabs\": true,            // enable the autocollapsing tabs\n  \n    // Set the height of the trigger area which shows the tabs\n    \"gruvbox_autocollapse_tabs_trigger_2\": true,  //  v  2\n    \"gruvbox_autocollapse_tabs_trigger_3\": true,  //  |  3\n                                                  //  |  4 (Default)\n    \"gruvbox_autocollapse_tabs_trigger_5\": true,  //  |  5\n    \"gruvbox_autocollapse_tabs_trigger_6\": true,  //  v  6\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Underline Modified Tabs\n  \n          Underline modified tabs with the current accent color\n          All thicknesses require `gruvbox_underline_modified_tabs` to be `true`.\n  \n    \"gruvbox_underline_modified_tabs\": true,        //  |  1 (Default)\n    \"gruvbox_underline_modified_tabs_thick\": true,  //  v  2\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Underline Active Tab\n  \n          Underline the active tab with the current accent color\n          All thicknesses require `gruvbox_underline_active_tab` to be `true`.\n  \n    \"gruvbox_underline_active_tab\": true,          //  |  1 (Default)\n    \"gruvbox_underline_active_tab_thick\": true,    //  |  2\n    \"gruvbox_underline_active_tab_thicker\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Find, Replace, and Console Sizes\n  \n          Adjust the top & bottom margins of the Find, Replace, and Console panels\n  \n    \"gruvbox_panel_xxs\": true,  //  v  2\n    \"gruvbox_panel_xs\": true,   //  |  4\n    \"gruvbox_panel_s\": true,    //  |  8\n                                //  |  11 (Default)\n    \"gruvbox_panel_l\": true,    //  |  13\n    \"gruvbox_panel_xl\": true,   //  |  15\n    \"gruvbox_panel_xxl\": true,  //  v  17\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Scrollbar Widths\n  \n          Adjust the width of the scrollbars\n  \n    \"gruvbox_scrollbar_width_xs\": true,  //  v  12\n    \"gruvbox_scrollbar_width_s\": true,   //  |  14\n                                         //  |  16 (Default)\n    \"gruvbox_scrollbar_width_l\": true,   //  |  18\n    \"gruvbox_scrollbar_width_xl\": true,  //  v  20\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Button Font Sizes\n  \n          Adjust the font size of the buttons\n  \n    \"gruvbox_buttons_font_size_10\": true,  //  v  10\n                                           //  |  11 (Default)\n    \"gruvbox_buttons_font_size_12\": true,  //  |  12\n    \"gruvbox_buttons_font_size_13\": true,  //  |  13\n    \"gruvbox_buttons_font_size_14\": true,  //  |  14\n    \"gruvbox_buttons_font_size_15\": true,  //  |  15\n    \"gruvbox_buttons_font_size_16\": true,  //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable / Enable Borders\n  \n    \"gruvbox_disable_borders\": true,                     // Disable all borders\n    \"gruvbox_enable_pane_borders\": true,                 // Enable borders between panes\n    \"gruvbox_enable_sidebar_border\": true,               // Enable the sidebar border\n    \"gruvbox_enable_statusbar_border\": true,             // Enable borders for the status bar\n    \"gruvbox_enable_tab_borders\": true,                  // Enable borders for the tabs\n    \"gruvbox_disable_command_palette_row_border\": true,  // Disable Command Palette row borders\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Alternate Folder Icons\n  \n    \"gruvbox_folder_icons_large\": true,       // Use larger default folder icons in the sidebar\n    \"gruvbox_folder_icons_square\": true,      // Use square folder icons in the sidebar\n    \"gruvbox_folder_icons_circle\": true,      // Use 'circle' folder icons in the sidebar\n    \"gruvbox_folder_icons_plus_minus\": true,  // Use 'plus, minus (+-)' folder icons in the sidebar\n    \"gruvbox_folder_icons_spacegray\": true,   // Use spacegray-like folder icons in the sidebar\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Alternate Icon Sets\n  \n    \"gruvbox_iconset_midstroke\": true,  // Use icons with a 1.5x thicker stroke\n    \"gruvbox_iconset_thick\": true,      // Use icons with a 2x thicker stroke\n    \"gruvbox_iconset_spacegray\": true,  // Use spacegray-like icons\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    PlainTasks Support\n  \n          To use the color scheme with the Plain​Tasks plugin,\n          add the color scheme path to the \"color_scheme\" key in\n          \"Preferences > Package Settings > PlainTasks > Settings - User\" like so:\n  \n          // PlainTasks.sublime-settings\n          {\n              \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme\",\n          }\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Even More Settings...\n  \n    \"gruvbox_animate_icons\": true,              // Enable icon animations\n    \"gruvbox_buttons_bold\": true,               // Enable bold button labels\n    \"gruvbox_colored_tooltips\": true,           // Color the tooltip backgrounds with the current accent color\n    \"gruvbox_disable_faded_file_icons\": true,   // Make file-type icons opaque\n    \"gruvbox_disable_file_icons\": true,          // Disable the sidebar file icons\n    \"gruvbox_disable_folder_icons\": true,       // Disable the sidebar folder icons\n    \"gruvbox_disable_greyscale\": true,          // Use gruvbox colors instead of greyscale colors for certain text\n    \"gruvbox_disable_panels_button\": true,      // Hide the panel-switching button\n    \"gruvbox_enable_panel_close_button\": true,  // Enable the panel close button\n    \"gruvbox_highlight_active_buttons\": true,   // Highlight selected buttons in the Find & Replace panel\n    \"gruvbox_highlight_active_tree_row\": true,  // Highlight the active file in the sidebar tree\n    \"gruvbox_less_contrast\": true,              // Use less contrasting colors in sidebar, tabs, etc.\n    \"gruvbox_statusbar_bold\": true,             // Enable bold status bar labels\n    \"gruvbox_tabs_autowidth\": true,             // Auto-size the tabs\n    \"gruvbox_tabs_bold\": true,                  // Enable bold tabs\n  \n  \n  --------------------------------------------------------------------------------\n  \n  If you are having any issues or want a new feature added,\n  get in touch at https://github.com/Briles/gruvbox/issues\n",
+					"settings":
+					{
+						"buffer_size": 17999,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"package_control_message",
+							{
+								"message": "\n\ngruvbox\n-------\n\n  gruvbox for Sublime Text 3\n  \n           More Information:  https://github.com/Briles/gruvbox\n  Feature Requests & Issues:  https://github.com/Briles/gruvbox/issues\n           gruvbox for Atom:  https://atom.io/themes/gruvbox-plus-syntax\n  \n  ----------------------------------------------------------------------------------------------\n  \n  Thank you for downloading gruvbox! Let's get started...\n  \n  ----------------------------------------------------------------------------------------------\n  \n  Add the following to your Settings - User file and then restart Sublime Text:\n  \n  gruvbox Dark - Hard Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Dark - Medium Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Dark - Soft Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Hard Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Hard).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Medium Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Medium).sublime-color-scheme\",\n    }\n  \n  \n  gruvbox Light - Soft Contrast:\n  \n    {\n      \"theme\": \"gruvbox.sublime-theme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Soft).sublime-color-scheme\",\n    }\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Color Scheme Variations\n  \n          gruvbox comes with color scheme variations which have different\n          brightness, saturation, or colors than their parent color schemes.\n  \n  \n    No Dimmed Colors\n  \n          A variant without out any neutral / dimmed colors\n  \n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Soft) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Hard) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Medium) NDC.sublime-color-scheme\",\n      \"color_scheme\": \"Packages/gruvbox/gruvbox (Light) (Soft) NDC.sublime-color-scheme\",\n  \n  \n  --------------------------------------------------------------------------------\n    ┌───────────────────────────┐\n    │  Theme options:       │\n    └───────────────────────────┘\n  --------------------------------------------------------------------------------\n  \n    Accent Colors\n  \n          Accent colors affect icons and certain text.\n  \n      \"gruvbox_accent_aqua\": true,    // uses the cyanish color from the color scheme\n      \"gruvbox_accent_blue\": true,    // uses the bluish color from the color scheme\n      \"gruvbox_accent_green\": true,   // uses the greenish color from the color scheme\n      \"gruvbox_accent_orange\": true,  // uses the orangish color from the color scheme\n      \"gruvbox_accent_purple\": true,  // uses the purplish color from the color scheme\n      \"gruvbox_accent_red\": true,     // uses the redish color from the color scheme\n      \"gruvbox_accent_yellow\": true,  // uses the yellowish color from the color scheme\n  \n  --------------------------------------------------------------------------------\n  \n  \n    AutoComplete Spacing\n  \n          Change the space between autocomplete rows\n  \n      \"gruvbox_autocomplete_cramped\": true,      //  v  2\n      \"gruvbox_autocomplete_compact\": true,      //  |  4\n                                                 //  |  6 (Default)\n      \"gruvbox_autocomplete_comfortable\": true,  //  |  8\n      \"gruvbox_autocomplete_cozy\": true,         //  v  10\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    AutoComplete Border\n  \n          Add a border around the autocomplete pop-up\n  \n      \"gruvbox_autocomplete_border\": true,        //  v 1\n      \"gruvbox_autocomplete_border_thick\": true,  //  v 2\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sideline Selected AutoComplete Row\n  \n          Add a border to the left of the selected autocomplete row\n          All thicknesses require `gruvbox_sideline_autocomplete_row` to be `true`.\n  \n      \"gruvbox_sideline_autocomplete_row\": true,           //  v  1 (Default)\n      \"gruvbox_sideline_autocomplete_row_thick\": true,     //  |  2\n      \"gruvbox_sideline_autocomplete_row_thickest\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable Selected AutoComplete Row Highlight\n  \n          Remove the highlight from the selected autocomplete row.\n  \n      \"gruvbox_disable_autocomplete_row_highlight\": true,\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Spacing\n  \n          Change the space between sidebar tree rows\n  \n      \"gruvbox_sidebar_cozy\": true,         //  v  1\n      \"gruvbox_sidebar_comfortable\": true,  //  |  3\n                                            //  |  5 (Default)\n      \"gruvbox_sidebar_compact\": true,      //  |  7\n      \"gruvbox_sidebar_cramped\": true,      //  v  9\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Indent\n  \n          Change the indent of sidebar tree rows\n  \n      \"gruvbox_sidebar_indent_xxs\": true,  //  v  4\n      \"gruvbox_sidebar_indent_xs\": true,   //  |  8\n      \"gruvbox_sidebar_indent_s\": true,    //  |  12\n                                           //  |  16 (Default)\n      \"gruvbox_sidebar_indent_l\": true,    //  |  20\n      \"gruvbox_sidebar_indent_xl\": true,   //  |  24\n      \"gruvbox_sidebar_indent_xxl\": true,  //  v  28\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sidebar Font Sizes\n  \n          Change the font size of the sidebar labels\n          ! Increasing the font size will distort the icons in the sidebar.\n  \n      \"gruvbox_sidebar_font_size_10\": true,  //  v  10\n                                             //  |  11 (Default)\n      \"gruvbox_sidebar_font_size_12\": true,  //  |  12\n      \"gruvbox_sidebar_font_size_13\": true,  //  |  13\n      \"gruvbox_sidebar_font_size_14\": true,  //  |  14\n      \"gruvbox_sidebar_font_size_15\": true,  //  |  15\n      \"gruvbox_sidebar_font_size_16\": true,  //  v  16\n  \n  --------------------------------------------------------------------------------\n  \n  \n    Bold Sidebar Labels\n  \n          Toggle bold fonts for sidebar labels\n  \n      \"gruvbox_sidebar_heading_bold\": true,\n      \"gruvbox_sidebar_label_bold\": true,\n  \n  --------------------------------------------------------------------------------\n  \n  \n    Command Palette Spacing\n  \n          Change the space between command palette rows\n  \n      \"gruvbox_command_palette_comfortable\": true,  //  v  4\n      \"gruvbox_command_palette_compact\": true,      //  |  8\n                                                    //  |  12 (Default)\n      \"gruvbox_command_palette_cozy\": true,         //  |  14\n      \"gruvbox_command_palette_cramped\": true,      //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Sideline Selected Command Palette Row\n  \n          Add a border to the left of the selected Command Palette row\n          All thicknesses require `gruvbox_sideline_command_palette_row` to be `true`.\n  \n      \"gruvbox_sideline_command_palette_row\": true,           //  v  1 (Default)\n      \"gruvbox_sideline_command_palette_row_thick\": true,     //  |  2\n      \"gruvbox_sideline_command_palette_row_thickest\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable Selected Command Palette Row Highlight\n  \n          Remove the highlight from the selected Command Palette row.\n  \n      \"gruvbox_disable_command_palette_row_highlight\": true,\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Sizes\n  \n          Change the height of the status bar\n  \n      \"gruvbox_statusbar_xxs\": true,  //  v  20\n      \"gruvbox_statusbar_xs\": true,   //  |  25\n      \"gruvbox_statusbar_s\": true,    //  |  30\n                                      //  |  35 (Default)\n      \"gruvbox_statusbar_l\": true,    //  |  40\n      \"gruvbox_statusbar_xl\": true,   //  |  45\n      \"gruvbox_statusbar_xxl\": true,  //  v  50\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Button Widths\n  \n          Change the minimum width of the buttons in the status bar\n  \n      \"gruvbox_statusbar_button_xxs\": true,  //  v  44\n      \"gruvbox_statusbar_button_xs\": true,   //  |  55\n      \"gruvbox_statusbar_button_s\": true,    //  |  65\n                                             //  |  75 (Default)\n      \"gruvbox_statusbar_button_l\": true,    //  |  85\n      \"gruvbox_statusbar_button_xl\": true,   //  |  95\n      \"gruvbox_statusbar_button_xxl\": true,  //  v  105\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Status Bar Font Sizes\n  \n          Change the font size of the status bar labels\n  \n      \"gruvbox_statusbar_font_size_10\": true,  //  v  10\n                                               //  |  11 (Default)\n      \"gruvbox_statusbar_font_size_12\": true,  //  |  12\n      \"gruvbox_statusbar_font_size_13\": true,  //  |  13\n      \"gruvbox_statusbar_font_size_14\": true,  //  |  14\n      \"gruvbox_statusbar_font_size_15\": true,  //  |  15\n      \"gruvbox_statusbar_font_size_16\": true,  //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Tab Sizes\n  \n          Change the height of the tabs\n  \n      \"gruvbox_tabs_xxs\": true,  //  v  33\n      \"gruvbox_tabs_xs\": true,   //  |  39\n      \"gruvbox_tabs_s\": true,    //  |  45\n                                 //  |  51 (Default)\n      \"gruvbox_tabs_l\": true,    //  |  57\n      \"gruvbox_tabs_xl\": true,   //  |  63\n      \"gruvbox_tabs_xxl\": true,  //  v  69\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Tab Font Sizes\n  \n          Change the font size of the tabs\n          ! Font sizes above 11 may get cut off. This is a known issue with Sublime Text.\n  \n      \"gruvbox_tabs_font_size_7\": true,   //  v  7\n      \"gruvbox_tabs_font_size_8\": true,   //  |  8\n      \"gruvbox_tabs_font_size_9\": true,   //  |  9\n      \"gruvbox_tabs_font_size_10\": true,  //  |  10\n                                          //  |  11 (Default)\n      \"gruvbox_tabs_font_size_12\": true,  //  |  12\n      \"gruvbox_tabs_font_size_13\": true,  //  |  13\n      \"gruvbox_tabs_font_size_14\": true,  //  |  14\n      \"gruvbox_tabs_font_size_15\": true,  //  v  15\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Autocollapsing Tab Bar\n  \n          Autocollapse the tabs when not in use\n  \n    \"gruvbox_autocollapse_tabs\": true,            // enable the autocollapsing tabs\n  \n    // Set the height of the trigger area which shows the tabs\n    \"gruvbox_autocollapse_tabs_trigger_2\": true,  //  v  2\n    \"gruvbox_autocollapse_tabs_trigger_3\": true,  //  |  3\n                                                  //  |  4 (Default)\n    \"gruvbox_autocollapse_tabs_trigger_5\": true,  //  |  5\n    \"gruvbox_autocollapse_tabs_trigger_6\": true,  //  v  6\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Underline Modified Tabs\n  \n          Underline modified tabs with the current accent color\n          All thicknesses require `gruvbox_underline_modified_tabs` to be `true`.\n  \n    \"gruvbox_underline_modified_tabs\": true,        //  |  1 (Default)\n    \"gruvbox_underline_modified_tabs_thick\": true,  //  v  2\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Underline Active Tab\n  \n          Underline the active tab with the current accent color\n          All thicknesses require `gruvbox_underline_active_tab` to be `true`.\n  \n    \"gruvbox_underline_active_tab\": true,          //  |  1 (Default)\n    \"gruvbox_underline_active_tab_thick\": true,    //  |  2\n    \"gruvbox_underline_active_tab_thicker\": true,  //  v  3\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Find, Replace, and Console Sizes\n  \n          Adjust the top & bottom margins of the Find, Replace, and Console panels\n  \n    \"gruvbox_panel_xxs\": true,  //  v  2\n    \"gruvbox_panel_xs\": true,   //  |  4\n    \"gruvbox_panel_s\": true,    //  |  8\n                                //  |  11 (Default)\n    \"gruvbox_panel_l\": true,    //  |  13\n    \"gruvbox_panel_xl\": true,   //  |  15\n    \"gruvbox_panel_xxl\": true,  //  v  17\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Scrollbar Widths\n  \n          Adjust the width of the scrollbars\n  \n    \"gruvbox_scrollbar_width_xs\": true,  //  v  12\n    \"gruvbox_scrollbar_width_s\": true,   //  |  14\n                                         //  |  16 (Default)\n    \"gruvbox_scrollbar_width_l\": true,   //  |  18\n    \"gruvbox_scrollbar_width_xl\": true,  //  v  20\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Button Font Sizes\n  \n          Adjust the font size of the buttons\n  \n    \"gruvbox_buttons_font_size_10\": true,  //  v  10\n                                           //  |  11 (Default)\n    \"gruvbox_buttons_font_size_12\": true,  //  |  12\n    \"gruvbox_buttons_font_size_13\": true,  //  |  13\n    \"gruvbox_buttons_font_size_14\": true,  //  |  14\n    \"gruvbox_buttons_font_size_15\": true,  //  |  15\n    \"gruvbox_buttons_font_size_16\": true,  //  v  16\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Disable / Enable Borders\n  \n    \"gruvbox_disable_borders\": true,                     // Disable all borders\n    \"gruvbox_enable_pane_borders\": true,                 // Enable borders between panes\n    \"gruvbox_enable_sidebar_border\": true,               // Enable the sidebar border\n    \"gruvbox_enable_statusbar_border\": true,             // Enable borders for the status bar\n    \"gruvbox_enable_tab_borders\": true,                  // Enable borders for the tabs\n    \"gruvbox_disable_command_palette_row_border\": true,  // Disable Command Palette row borders\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Alternate Folder Icons\n  \n    \"gruvbox_folder_icons_large\": true,       // Use larger default folder icons in the sidebar\n    \"gruvbox_folder_icons_square\": true,      // Use square folder icons in the sidebar\n    \"gruvbox_folder_icons_circle\": true,      // Use 'circle' folder icons in the sidebar\n    \"gruvbox_folder_icons_plus_minus\": true,  // Use 'plus, minus (+-)' folder icons in the sidebar\n    \"gruvbox_folder_icons_spacegray\": true,   // Use spacegray-like folder icons in the sidebar\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Alternate Icon Sets\n  \n    \"gruvbox_iconset_midstroke\": true,  // Use icons with a 1.5x thicker stroke\n    \"gruvbox_iconset_thick\": true,      // Use icons with a 2x thicker stroke\n    \"gruvbox_iconset_spacegray\": true,  // Use spacegray-like icons\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    PlainTasks Support\n  \n          To use the color scheme with the Plain​Tasks plugin,\n          add the color scheme path to the \"color_scheme\" key in\n          \"Preferences > Package Settings > PlainTasks > Settings - User\" like so:\n  \n          // PlainTasks.sublime-settings\n          {\n              \"color_scheme\": \"Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme\",\n          }\n  \n  \n  --------------------------------------------------------------------------------\n  \n  \n    Even More Settings...\n  \n    \"gruvbox_animate_icons\": true,              // Enable icon animations\n    \"gruvbox_buttons_bold\": true,               // Enable bold button labels\n    \"gruvbox_colored_tooltips\": true,           // Color the tooltip backgrounds with the current accent color\n    \"gruvbox_disable_faded_file_icons\": true,   // Make file-type icons opaque\n    \"gruvbox_disable_file_icons\": true,          // Disable the sidebar file icons\n    \"gruvbox_disable_folder_icons\": true,       // Disable the sidebar folder icons\n    \"gruvbox_disable_greyscale\": true,          // Use gruvbox colors instead of greyscale colors for certain text\n    \"gruvbox_disable_panels_button\": true,      // Hide the panel-switching button\n    \"gruvbox_enable_panel_close_button\": true,  // Enable the panel close button\n    \"gruvbox_highlight_active_buttons\": true,   // Highlight selected buttons in the Find & Replace panel\n    \"gruvbox_highlight_active_tree_row\": true,  // Highlight the active file in the sidebar tree\n    \"gruvbox_less_contrast\": true,              // Use less contrasting colors in sidebar, tabs, etc.\n    \"gruvbox_statusbar_bold\": true,             // Enable bold status bar labels\n    \"gruvbox_tabs_autowidth\": true,             // Auto-size the tabs\n    \"gruvbox_tabs_bold\": true,                  // Enable bold tabs\n  \n  \n  --------------------------------------------------------------------------------\n  \n  If you are having any issues or want a new feature added,\n  get in touch at https://github.com/Briles/gruvbox/issues\n"
+							},
+							"AQAAAAAAAAAAAAAAT0YAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "#include <bits/stdc++.h>\n#define sz(a) ((int)((a).size()))\ntypedef long long ll;\ntypedef long double ld;\nusing namespace std;\n\nvoid solve() {\n\tint t;\n\n}\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n    int t;\n    cin >> t;\n    while (t--) solve();\n}\n",
+					"file": "/Users/devarora/cp/test.cpp",
+					"file_size": 0,
+					"file_write_time": 133735999517646531,
+					"settings":
+					{
+						"buffer_size": 274,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "begin"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"insert_completion",
+							{
+								"completion": "${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}begin(), ${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}end()",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "beginend"
+							},
+							"BgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAYmVnaW4AAAAAAAAAABIAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAEAAAAuDAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0AAAAAAAAAAQAAAC4",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "V"
+							},
+							"BAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAEAAAB2AAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAHY",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAPC/CwAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							6,
+							"left_delete",
+							null,
+							"DAAAABEAAAAAAAAAEQAAAAAAAAABAAAAKQcAAAAAAAAABwAAAAAAAAABAAAAKA8AAAAAAAAADwAAAAAAAAABAAAAKAYAAAAAAAAABgAAAAAAAAABAAAAbg0AAAAAAAAADQAAAAAAAAABAAAAZAUAAAAAAAAABQAAAAAAAAABAAAAaQsAAAAAAAAACwAAAAAAAAABAAAAbgQAAAAAAAAABAAAAAAAAAABAAAAZwkAAAAAAAAACQAAAAAAAAABAAAAZQMAAAAAAAAAAwAAAAAAAAABAAAAZQcAAAAAAAAABwAAAAAAAAABAAAALgIAAAAAAAAAAgAAAAAAAAABAAAAYg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAACAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/EgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							3,
+							"left_delete",
+							null,
+							"BgAAAAUAAAAAAAAABQAAAAAAAAABAAAAVgIAAAAAAAAAAgAAAAAAAAABAAAAKQMAAAAAAAAAAwAAAAAAAAABAAAAIAEAAAAAAAAAAQAAAAAAAAABAAAALgEAAAAAAAAAAQAAAAAAAAABAAAALAAAAAAAAAAAAAAAAAAAAAABAAAAVg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAACAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/BgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "start"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAUAAAAAAAAABQAAAAAAAAABAAAACQQAAAAAAAAABAAAAAAAAAABAAAAdA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							6,
+							"left_delete",
+							null,
+							"BgAAAAUAAAAAAAAABQAAAAAAAAABAAAACQQAAAAAAAAABAAAAAAAAAABAAAAdAMAAAAAAAAAAwAAAAAAAAABAAAAcgIAAAAAAAAAAgAAAAAAAAABAAAAYQEAAAAAAAAAAQAAAAAAAAABAAAAdAAAAAAAAAAAAAAAAAAAAAABAAAAcw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "start"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							6,
+							"left_delete",
+							null,
+							"BgAAAAUAAAAAAAAABQAAAAAAAAABAAAACQQAAAAAAAAABAAAAAAAAAABAAAAdAMAAAAAAAAAAwAAAAAAAAABAAAAcgIAAAAAAAAAAgAAAAAAAAABAAAAYQEAAAAAAAAAAQAAAAAAAAABAAAAdAAAAAAAAAAAAAAAAAAAAAABAAAAcw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "start"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert_completion",
+							{
+								"completion": "#include <bits/stdc++.h>\n#define sz(a) ((int)((a).size()))\ntypedef long long ll;\ntypedef long double ld;\nusing namespace std;\n\nvoid solve() {\n    $0 \n}\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n    int t;\n    cin >> t;\n    while (t--) solve();\n}\n    ",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "start"
+							},
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAc3RhcnQAAAAAAAAAABMBAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "asdf"
+							},
+							"BAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							4,
+							"left_delete",
+							null,
+							"BAAAAJUAAAAAAAAAlQAAAAAAAAABAAAAZpQAAAAAAAAAlAAAAAAAAAABAAAAZJMAAAAAAAAAkwAAAAAAAAABAAAAc5IAAAAAAAAAkgAAAAAAAAABAAAAYQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "begin"
+							},
+							"BQAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert_completion",
+							{
+								"completion": "${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}begin(), ${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}end()",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "beginend"
+							},
+							"BgAAAJIAAAAAAAAAkgAAAAAAAAAFAAAAYmVnaW6SAAAAAAAAAKQAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACUAAAAAAAAAAEAAAAungAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAJ8AAAAAAAAAAQAAAC4",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "V"
+							},
+							"BgAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlQAAAAAAAAABAAAALqAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAAChAAAAAAAAAAEAAAAu",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAACAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/ngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							2,
+							"left_delete",
+							null,
+							"DAAAAJ8AAAAAAAAAnwAAAAAAAAABAAAAVpMAAAAAAAAAkwAAAAAAAAABAAAAVpMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACUAAAAAAAAAAEAAAAungAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAJ8AAAAAAAAAAQAAAC6dAAAAAAAAAJ0AAAAAAAAAAQAAAHaSAAAAAAAAAJIAAAAAAAAAAQAAAHaSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAkwAAAAAAAAABAAAALpwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACdAAAAAAAAAAEAAAAu",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAACAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/oAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AgAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADvAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							37,
+							5,
+							"left_delete",
+							null,
+							"BQAAAO4AAAAAAAAA7gAAAAAAAAABAAAAIO0AAAAAAAAA7QAAAAAAAAABAAAAIOwAAAAAAAAA7AAAAAAAAAABAAAAIOsAAAAAAAAA6wAAAAAAAAABAAAAIOoAAAAAAAAA6gAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADvAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6gAAAAAAAADqAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							5,
+							"left_delete",
+							null,
+							"BQAAAO4AAAAAAAAA7gAAAAAAAAABAAAAIO0AAAAAAAAA7QAAAAAAAAABAAAAIOwAAAAAAAAA7AAAAAAAAAABAAAAIOsAAAAAAAAA6wAAAAAAAAABAAAAIOoAAAAAAAAA6gAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"enter_visual_line_mode",
+										null
+									],
+									[
+										"vi_eval",
+										{
+											"action_args":
+											{
+											},
+											"action_command": "vi_delete",
+											"motion_args": null,
+											"motion_clip_to_line": false,
+											"motion_command": null,
+											"motion_inclusive": false,
+											"motion_mode": 2
+										}
+									]
+								]
+							},
+							"AQAAAI4AAAAAAAAAjgAAAAAAAAAWAAAAICAgIC5iZWdpbigpLCAuZW5kKCkgCg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AgAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							55,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AwAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACOAAAAAAAAAI4AAAAAAAAAAQAAAAk",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							56,
+							2,
+							"left_delete",
+							null,
+							"AgAAAI8AAAAAAAAAjwAAAAAAAAABAAAACY4AAAAAAAAAjgAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"reindent",
+							null,
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": "asdasd"
+							},
+							"BgAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							6,
+							"left_delete",
+							null,
+							"BgAAAJQAAAAAAAAAlAAAAAAAAAABAAAAZJMAAAAAAAAAkwAAAAAAAAABAAAAc5IAAAAAAAAAkgAAAAAAAAABAAAAYZEAAAAAAAAAkQAAAAAAAAABAAAAZJAAAAAAAAAAkAAAAAAAAAABAAAAc48AAAAAAAAAjwAAAAAAAAABAAAAYQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							2,
+							"yank",
+							null,
+							"AgAAAI8AAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAAC1AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": "kV"
+							},
+							"AgAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							2,
+							"left_delete",
+							null,
+							"AgAAALYAAAAAAAAAtgAAAAAAAAABAAAAVrUAAAAAAAAAtQAAAAAAAAABAAAAaw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAKEAAAAAAAAAoQAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAGVA"
+						],
+						[
+							72,
+							2,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AgAAAI4AAAAAAAAAjgAAAAAAAAATAAAACQkoYXNkZmxqa2FzbGRrZmopCo4AAAAAAAAAjgAAAAAAAAASAAAACShhc2RmbGprYXNsZGtmaikK",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							80,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							81,
+							1,
+							"reindent",
+							null,
+							"AQAAAI8AAAAAAAAAkAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI8AAAAAAAAAjwAAAAAAAAABAAAACQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"reindent",
+							null,
+							"AQAAAI8AAAAAAAAAkAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert",
+							{
+								"characters": "asd"
+							},
+							"AwAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							85,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							2,
+							"left_delete",
+							null,
+							"AgAAAJQAAAAAAAAAlAAAAAAAAAABAAAACZMAAAAAAAAAkwAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							88,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAACQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							89,
+							1,
+							"reindent",
+							null,
+							"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAACQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							91,
+							1,
+							"reindent",
+							null,
+							"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							92,
+							7,
+							"left_delete",
+							null,
+							"BwAAAJQAAAAAAAAAlAAAAAAAAAABAAAACZMAAAAAAAAAkwAAAAAAAAABAAAACpIAAAAAAAAAkgAAAAAAAAABAAAAZJEAAAAAAAAAkQAAAAAAAAABAAAAc5AAAAAAAAAAkAAAAAAAAAABAAAAYY8AAAAAAAAAjwAAAAAAAAABAAAACY4AAAAAAAAAjgAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							93,
+							1,
+							"reindent",
+							null,
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI4AAAAAAAAAjgAAAAAAAAABAAAACQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							95,
+							1,
+							"insert",
+							{
+								"characters": "  "
+							},
+							"AgAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACQAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							96,
+							2,
+							"left_delete",
+							null,
+							"AgAAAI8AAAAAAAAAjwAAAAAAAAABAAAAII4AAAAAAAAAjgAAAAAAAAABAAAAIA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							97,
+							1,
+							"reindent",
+							null,
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAI8AAAAAAAAAkAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							3,
+							"left_delete",
+							null,
+							"AwAAAI8AAAAAAAAAjwAAAAAAAAABAAAACY4AAAAAAAAAjgAAAAAAAAABAAAACY0AAAAAAAAAjQAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"reindent",
+							null,
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAgFhA"
+						],
+						[
+							103,
+							1,
+							"insert",
+							{
+								"characters": "in"
+							},
+							"AgAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							104,
+							1,
+							"insert_completion",
+							{
+								"completion": "int",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "int"
+							},
+							"AgAAAI8AAAAAAAAAjwAAAAAAAAACAAAAaW6PAAAAAAAAAJIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							5,
+							"left_delete",
+							null,
+							"BQAAAJMAAAAAAAAAkwAAAAAAAAABAAAACZIAAAAAAAAAkgAAAAAAAAABAAAACpEAAAAAAAAAkQAAAAAAAAABAAAAdJAAAAAAAAAAkAAAAAAAAAABAAAAbo8AAAAAAAAAjwAAAAAAAAABAAAAaQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							1,
+							"insert",
+							{
+								"characters": " t;"
+							},
+							"AwAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert",
+							{
+								"characters": "\ncin"
+							},
+							"BQAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							110,
+							1,
+							"insert",
+							{
+								"characters": " >>"
+							},
+							"AwAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							111,
+							1,
+							"insert",
+							{
+								"characters": " t;"
+							},
+							"AwAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": "\n//"
+							},
+							"BAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert",
+							{
+								"characters": " anyway"
+							},
+							"BwAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							114,
+							1,
+							"insert",
+							{
+								"characters": " a"
+							},
+							"AgAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							115,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKwAAAAAAAAArAAAAAAAAAABAAAAYQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAArQAAAAAAAACtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							1,
+							"insert",
+							{
+								"characters": "the"
+							},
+							"AwAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							117,
+							1,
+							"insert",
+							{
+								"characters": " thing"
+							},
+							"BgAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							118,
+							1,
+							"insert",
+							{
+								"characters": " s"
+							},
+							"AgAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							120,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAKEAAAAAAAAAoQAAAAAAAAAXAAAACS8vIGFueXdheSB0aGUgdGhpbmcgcwo",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							122,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAJYAAAAAAAAAlgAAAAAAAAALAAAACWNpbiA+PiB0Owo",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							129,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AgAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							130,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACWAAAAAAAAAJYAAAAAAAAAAQAAAAk",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							131,
+							2,
+							"left_delete",
+							null,
+							"AgAAAJcAAAAAAAAAlwAAAAAAAAABAAAACZYAAAAAAAAAlgAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							132,
+							1,
+							"reindent",
+							null,
+							"AQAAAJYAAAAAAAAAlwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							133,
+							1,
+							"insert",
+							{
+								"characters": "this"
+							},
+							"BAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							134,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAJsAAAAAAAAAnAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							135,
+							7,
+							"left_delete",
+							null,
+							"BwAAAJsAAAAAAAAAmwAAAAAAAAABAAAAIJoAAAAAAAAAmgAAAAAAAAABAAAAc5kAAAAAAAAAmQAAAAAAAAABAAAAaZgAAAAAAAAAmAAAAAAAAAABAAAAaJcAAAAAAAAAlwAAAAAAAAABAAAAdJYAAAAAAAAAlgAAAAAAAAABAAAACZUAAAAAAAAAlQAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							136,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							139,
+							1,
+							"insert",
+							{
+								"characters": "¡¡"
+							},
+							"AwAAABcBAAAAAAAAGAEAAAAAAAAAAAAAlgAAAAAAAACWAAAAAAAAAAEAAAAJFwEAAAAAAAAYAQAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							140,
+							2,
+							"left_delete",
+							null,
+							"AgAAABcBAAAAAAAAFwEAAAAAAAACAAAAwqEWAQAAAAAAABYBAAAAAAAAAgAAAMKh",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							141,
+							1,
+							"insert",
+							{
+								"characters": "£¡"
+							},
+							"AgAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAYAQAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							142,
+							2,
+							"left_delete",
+							null,
+							"AgAAABcBAAAAAAAAFwEAAAAAAAACAAAAwqEWAQAAAAAAABYBAAAAAAAAAgAAAMKj",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							143,
+							4,
+							"left_delete",
+							null,
+							"BAAAABUBAAAAAAAAFQEAAAAAAAABAAAAIBQBAAAAAAAAFAEAAAAAAAABAAAAIBMBAAAAAAAAEwEAAAAAAAABAAAAIBIBAAAAAAAAEgEAAAAAAAABAAAAIA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 370,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							11,
+							"left_delete",
+							null,
+							"CwAAADsBAAAAAAAAOwEAAAAAAAABAAAAdDoBAAAAAAAAOgEAAAAAAAABAAAAZTkBAAAAAAAAOQEAAAAAAAABAAAAcDgBAAAAAAAAOAEAAAAAAAABAAAAcDcBAAAAAAAANwEAAAAAAAABAAAAaTYBAAAAAAAANgEAAAAAAAABAAAAbjUBAAAAAAAANQEAAAAAAAABAAAAczQBAAAAAAAANAEAAAAAAAABAAAAZDMBAAAAAAAAMwEAAAAAAAABAAAAbjIBAAAAAAAAMgEAAAAAAAABAAAAZTEBAAAAAAAAMQEAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							2,
+							"left_delete",
+							null,
+							"AgAAAGcBAAAAAAAAZwEAAAAAAAAdAAAAICAgIDxzY29wZT5zb3VyY2UuY3BwPC9zY29wZT5mAQAAAAAAAGYBAAAAAAAAAQAAAAo",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhAEAAAAAAABnAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/Users/devarora/scripts/copy_snippets.py",
+					"settings":
+					{
+						"buffer_size": 169,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "asd"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAZAEAAAAAAAAAAQAAAAAAAAABAAAAcwAAAAAAAAAAAAAAAAAAAAABAAAAYQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "snippets"
+							},
+							"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAoAAAAAAAAACgAAAAAAAAABAAAAIA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAc25pcHBldHMgPQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "imo"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAIAAAAAAAAAAgAAAAAAAAABAAAAbw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "port"
+							},
+							"BAAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": " os"
+							},
+							"AwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "with"
+							},
+							"BAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": " open"
+							},
+							"BQAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABUAAAAAAAAAFwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"right_delete",
+							null,
+							"AQAAABYAAAAAAAAAFgAAAAAAAAABAAAAKQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAABYAAAAAAAAAGAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"paste",
+							null,
+							"AQAAABcAAAAAAAAAXQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "_"
+							},
+							"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"left_delete",
+							null,
+							"AQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAXw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "):"
+							},
+							"AgAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"left_delete",
+							null,
+							"AQAAAF8AAAAAAAAAXwAAAAAAAAABAAAAOg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": " as"
+							},
+							"AwAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGIAAAAAAAAAYwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "file:"
+							},
+							"BQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAAsAAAAAAAAADAAAAAAAAAAAAAAAagAAAAAAAABqAAAAAAAAAAEAAAAJ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAgERA"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAsAAAAAAAAACwAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"reindent",
+							null,
+							"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "content"
+							},
+							"BwAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAG0AAAAAAAAAAAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": " file.read"
+							},
+							"CgAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAH0AAAAAAAAAfwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIAAAAAAAAAAgAAAAAAAAAABAAAACQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "\nprint"
+							},
+							"BgAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAIYAAAAAAAAAiAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": "content"
+							},
+							"BwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"enter_visual_line_mode",
+										null
+									],
+									[
+										"vi_eval",
+										{
+											"action_args":
+											{
+											},
+											"action_command": "vi_delete",
+											"motion_args": null,
+											"motion_clip_to_line": false,
+											"motion_command": null,
+											"motion_inclusive": false,
+											"motion_mode": 2
+										}
+									]
+								]
+							},
+							"AQAAAAwAAAAAAAAADAAAAAAAAABdAAAAd2l0aCBvcGVuKCcvVXNlcnMvZGV2YXJvcmEvTGlicmFyeS9BcHBsaWNhdGlvbiBTdXBwb3J0L1N1YmxpbWUgVGV4dC9QYWNrYWdlcy9Vc2VyJykgYXMgZmlsZToK",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "with"
+							},
+							"BAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"insert",
+							{
+								"characters": " open"
+							},
+							"BQAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABUAAAAAAAAAFwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAABYAAAAAAAAAGAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AgAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABoAAAAAAAAAGgAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							9,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": "\n\n\nasdf;lkajsdf;lkajs;flkadsf"
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"HwAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAMQAAAAAAAAAxAAAAAAAAAAEAAAAJQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEEAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							14,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAACg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEMAAAAAAAAAQwAAAAAAAAAAAAAAAMBeQA"
+						],
+						[
+							16,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAEIAAAAAAAAAQgAAAAAAAAABAAAACg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEIAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							15,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AgAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAV0A"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "k"
+							},
+							"AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							17,
+							1,
+							"left_delete",
+							null,
+							"AQAAADIAAAAAAAAAMgAAAAAAAAABAAAAaw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AgAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAHBA"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "sadf;lkjfdsa;lk"
+							},
+							"DwAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							15,
+							"left_delete",
+							null,
+							"DwAAAEAAAAAAAAAAQAAAAAAAAAABAAAAaz8AAAAAAAAAPwAAAAAAAAABAAAAbD4AAAAAAAAAPgAAAAAAAAABAAAAOz0AAAAAAAAAPQAAAAAAAAABAAAAYTwAAAAAAAAAPAAAAAAAAAABAAAAczsAAAAAAAAAOwAAAAAAAAABAAAAZDoAAAAAAAAAOgAAAAAAAAABAAAAZjkAAAAAAAAAOQAAAAAAAAABAAAAajgAAAAAAAAAOAAAAAAAAAABAAAAazcAAAAAAAAANwAAAAAAAAABAAAAbDYAAAAAAAAANgAAAAAAAAABAAAAOzUAAAAAAAAANQAAAAAAAAABAAAAZjQAAAAAAAAANAAAAAAAAAABAAAAZDMAAAAAAAAAMwAAAAAAAAABAAAAYTIAAAAAAAAAMgAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "!~/"
+							},
+							"BAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAMgAAAAAAAAAyAAAAAAAAAAEAAAAJGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							3,
+							"left_delete",
+							null,
+							"AwAAABkAAAAAAAAAGQAAAAAAAAABAAAALxgAAAAAAAAAGAAAAAAAAAABAAAAfhcAAAAAAAAAFwAAAAAAAAABAAAAIQ",
+							"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "~/.config/"
+							},
+							"CgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "nvim/cp="
+							},
+							"CAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							3,
+							"left_delete",
+							null,
+							"AwAAACgAAAAAAAAAKAAAAAAAAAABAAAAPScAAAAAAAAAJwAAAAAAAAABAAAAcCYAAAAAAAAAJgAAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "snips/cpp.sni"
+							},
+							"DQAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "ppets"
+							},
+							"BQAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": "print"
+										}
+									],
+									[
+										"insert_snippet",
+										{
+											"contents": "($0)"
+										}
+									],
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"EQAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABaAAAAAAAAAAAAAABYAAAAAAAAAFgAAAAAAAAAAQAAAChYAAAAAAAAAFgAAAAAAAAAAQAAAClXAAAAAAAAAFcAAAAAAAAAAQAAAHRWAAAAAAAAAFYAAAAAAAAAAQAAAG5VAAAAAAAAAFUAAAAAAAAAAQAAAGlUAAAAAAAAAFQAAAAAAAAAAQAAAHJTAAAAAAAAAFMAAAAAAAAAAQAAAHBSAAAAAAAAAFIAAAAAAAAAAQAAAAlRAAAAAAAAAFEAAAAAAAAAAQAAAAo",
+							"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAgHtA"
+						],
+						[
+							33,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"insert",
+										{
+											"characters": "kk"
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"BAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABRAAAAAAAAAFEAAAAAAAAAAQAAAGtQAAAAAAAAAFAAAAAAAAAAAQAAAGs",
+							"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true,
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": ":"
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AQAAADoAAAAAAAAAOwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							3,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AwAAAFQAAAAAAAAAVAAAAAAAAAACAAAACQpUAAAAAAAAAFQAAAAAAAAAAQAAAApUAAAAAAAAAFQAAAAAAAAAAQAAAAo",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							55,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": "from"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " pathl;"
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"insert",
+										{
+											"characters": "ib"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " import"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " path"
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"GwAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABUAAAAAAAAAFQAAAAAAAAABAAAAOxUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							57,
+							1,
+							"replace_character",
+							{
+								"character": "P"
+							},
+							"AQAAAB8AAAAAAAAAIAAAAAAAAAABAAAAcA",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAoGlA"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": "path"
+							},
+							"BAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": " Path."
+							},
+							"BgAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert",
+							{
+								"characters": "home"
+							},
+							"BAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAADUAAAAAAAAANwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": " /"
+							},
+							"AgAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAADoAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"insert",
+							{
+								"characters": ".conf"
+							},
+							"BQAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"insert_completion",
+							{
+								"completion": "config",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "config"
+							},
+							"AgAAADwAAAAAAAAAPAAAAAAAAAAEAAAAY29uZjwAAAAAAAAAQgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							73,
+							1,
+							"insert",
+							{
+								"characters": " /"
+							},
+							"AgAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							1,
+							"insert",
+							{
+								"characters": " :"
+							},
+							"AgAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEYAAAAAAAAARgAAAAAAAAABAAAAOg",
+							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							76,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAEYAAAAAAAAASAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "nvim"
+							},
+							"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"insert",
+							{
+								"characters": " /"
+							},
+							"AgAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAE8AAAAAAAAAUQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"insert",
+							{
+								"characters": "sni"
+							},
+							"AwAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAFMAAAAAAAAAVQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							85,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFQAAAAAAAAAVAAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAFMAAAAAAAAAUwAAAAAAAAABAAAAW1MAAAAAAAAAUwAAAAAAAAABAAAAXQ",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": "ps"
+							},
+							"AgAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							89,
+							1,
+							"insert",
+							{
+								"characters": " /"
+							},
+							"AgAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							91,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAFkAAAAAAAAAWwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							92,
+							1,
+							"insert",
+							{
+								"characters": "cpp.ns"
+							},
+							"BgAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							93,
+							2,
+							"left_delete",
+							null,
+							"AgAAAF8AAAAAAAAAXwAAAAAAAAABAAAAc14AAAAAAAAAXgAAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"insert",
+							{
+								"characters": "snippes"
+							},
+							"BwAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							95,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGQAAAAAAAAAZAAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							96,
+							1,
+							"insert",
+							{
+								"characters": "ts"
+							},
+							"AgAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							100,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAGgAAAAAAAAAaAAAAAAAAAAwAAAAd2l0aCBvcGVuKCd+Ly5jb25maWcvbnZpbS9zbmlwcy9jcHAuc25pcHBldHMnKToK",
+							"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAyIRA"
+						],
+						[
+							102,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line.sublime-macro",
+								"register": "\""
+							},
+							"AQAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							103,
+							1,
+							"insert",
+							{
+								"characters": "with"
+							},
+							"BAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							104,
+							1,
+							"insert",
+							{
+								"characters": " open"
+							},
+							"BQAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHEAAAAAAAAAcQAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAHEAAAAAAAAAcwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							1,
+							"insert",
+							{
+								"characters": "path"
+							},
+							"BAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert",
+							{
+								"characters": " as"
+							},
+							"AwAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							110,
+							3,
+							"left_delete",
+							null,
+							"AwAAAHgAAAAAAAAAeAAAAAAAAAABAAAAc3cAAAAAAAAAdwAAAAAAAAABAAAAYXYAAAAAAAAAdgAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": " as"
+							},
+							"AwAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHoAAAAAAAAAewAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							114,
+							1,
+							"insert",
+							{
+								"characters": "file"
+							},
+							"BAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							118,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true,
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": ":"
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							123,
+							2,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAKkAAAAAAAAAqQAAAAAAAAAaAAAAYXNkZjtsa2Fqc2RmO2xrYWpzO2Zsa2Fkc2Y",
+							"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							131,
+							2,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAKgAAAAAAAAAqAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							139,
+							1,
+							"vi_eval",
+							{
+								"action_args":
+								{
+								},
+								"action_command": "vi_delete",
+								"motion_args":
+								{
+									"to": "line"
+								},
+								"motion_clip_to_line": false,
+								"motion_command": "expand_selection",
+								"motion_inclusive": false,
+								"motion_mode": 0
+							},
+							"AQAAAJgAAAAAAAAAmAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							142,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Add Line.sublime-macro",
+											"register": "\""
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AgAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"onda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devarora/cp/ballsorting.cpp",
+				"/Users/devarora/cp/test.cpp",
+				"/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+				"/Users/devarora/cp/robinhoodarchery.cpp",
+				"/Users/devarora/ml/RL/main.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"main"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										235,
+										235
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_indent": false,
+									"gutter": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"tab_width": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/devarora/cp/test.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/devarora/Library/Application Support/Sublime Text/Packages/User/beg.sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 370,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										369,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/devarora/scripts/copy_snippets.py",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 169,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										169,
+										169
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 66.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Conda/Conda.sublime-build",
+			"position": "YnBsaXN0MDDUAQIDBAUGBzJYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlct8QFQgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnIikqKSktLikwMV8QGk5TV2luZG93RnVsbFNjcmVlblBhcmVudElEXxAXTlNGdWxsU2NyZWVuV2luZG93RnJhbWVdTlNXaW5kb3dGcmFtZVtOU1N0eWxlTWFza18QHl9OU1dpbmRvd0xhc3RVc2VyV2luZG93TGF5b3V0c18QEE5TRmlyc3RSZXNwb25kZXJfEBpOU1dpbmRvd0Z1bGxTY3JlZW5UaWxlUmVjdF8QJk5TV2luZG93TWFuYWdlbWVudFBlcnNpc3RlbnRJZGVudGlmaWVyXxAXX05TV2luZG93TW92ZUdlbmVyYXRpb25fEBBfTlNXaW5kb3dMYXlvdXRzXk5TV2luZG93TnVtYmVyXxAXTlNVbm1hbmFnZWRXaW5kb3dGcmFtZTJeTlNJc0Z1bGxTY3JlZW5XTlNUaXRsZVdOU0lzS2V5XxAbTlNGdWxsU2NyZWVuVGlsZUZpbGxzU2NyZWVuXxAcTlNXaW5kb3dGdWxsU2NyZWVuUGFyZW50UmVjdF8QGV9OU1dpbmRvd1Jlc2l6ZUdlbmVyYXRpb25YTlNJc01haW5bTlNDbGFzc05hbWVfEB1OU1dpbmRvd0Z1bGxTY3JlZW5Xb3Jrc3BhY2VJRIAFgAOAAhFAD4AUgACABoABEACAChDAgAAJgAgJCYAHEAMJgAmABK8QGDM0NTY3ODk6Ozw9RkxNTlRcXV5hZGpub1UkbnVsbF8QJDA5QTEwNzkyLUVFMjItNDUxMy04M0Q3LTUyODk3NTlDREVBMV8QHDAgMCAyNTYwIDE0NDMgMCAwIDI1NjAgMTQ0MCBfEBwwIDAgMjU2MCAxNDQwIDAgMCAyNTYwIDE0NDAgXxAkQTIxNjk4NkEtRTc1NC00QTBFLUExQkItMjREM0ZDNjlGMDJEXxAkMkI5NTJBMDAtNkY3Ni00QkJCLUExMkMtMTAyNUIzQzg4N0NCXxAWe3swLCAwfSwgezI1NjAsIDE0NDB9fV8QFnt7MCwgMH0sIHsyNTYwLCAxNDQwfX1fEBBjb3B5X3NuaXBwZXRzLnB5WFBYV2luZG930z4/QEFDRVdOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoUKAC6FEgA+AE9NHSEBJSktfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWADIANgA5fECQ1RjI3RDNCNy0xMkE2LTQwNzgtODdFOS0wNzQwRUExRjdCOURcezI1NjAsIDE0NDB90k9QUVJaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU1NjcmVlbkxheW91dKJRU1hOU09iamVjdNVVVldAWFkuJVpbXxAfTlNXaW5kb3dMYXlvdXRTY3JlZW5MYXlvdXRGcmFtZV8QHk5TV2luZG93TGF5b3V0UmVzaXplR2VuZXJhdGlvbl8QHE5TV2luZG93TGF5b3V0TW92ZUdlbmVyYXRpb25fEBlOU1dpbmRvd0xheW91dFdpbmRvd0ZyYW1lgBGAEoAQXxAWe3swLCAwfSwgezI1NjAsIDE0NDN9fV8QFnt7MCwgMH0sIHsyNTYwLCAxNDE1fX3ST1BfYF5OU1dpbmRvd0xheW91dKJfU9JPUGJjXE5TRGljdGlvbmFyeaJiU9M+P0BlZ0WhSYAMoWiAFYAT1VVWV0BYay4lWm2AF4ASgBZfEBh7ey0wLCAtMH0sIHsxMjc5LCAxNDE1fX1fEBZ7ezAsIDB9LCB7MjU2MCwgMTQxNX19AAgAEQAaACQAKQAyADcASQB2AJMArQC7AMcA6AD7ARgBQQFbAW4BfQGXAaYBrgG2AdQB8wIPAhgCJAJEAkYCSAJKAk0CTwJRAlMCVQJXAlkCWwJdAl4CYAJhAmICZAJmAmcCaQJrAoYCjAKzAtIC8QMYAz8DWANxA4QDjQOUA5wDpwOuA7ADsgO0A7YDuAO/A9oD7wPxA/MD9QQcBCkELgQ5BEIEUQRUBF0EaASKBKsEygTmBOgE6gTsBQUFHgUjBTIFNQU6BUcFSgVRBVMFVQVXBVkFWwVmBWgFagVsBYcAAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAAFoA",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 23,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/devarora/ml/RL/rl_practice.sublime-workspace",
+			"/Users/devarora/ml/RL/main.sublime-workspace"
+		]
+	}
+}

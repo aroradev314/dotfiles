@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+beg
+for
+modular
+dsu
+rand
+segtree
+    ]]></content>
+    <tabTrigger>list</tabTrigger>
+    <description>"list of all template files"</description>
+</snippet>
